@@ -22,18 +22,15 @@
   },
   {
     "id": "meide",
-    "title": "02 美德 V1-17 全章节",
-    "platform": "安卓 / 中文",
+    "title": "王煜全-科技破局 实战闭门课",
+    "platform": "",
     "cover": "./images/covers/mygame.webp",
-    "size": "2 GB",
-    "version": "国风神作SLG/中文/动态",
-    "date": "2026-02-05",
-    "desc": "游戏的制作是相当的精致，3D建模CG+2D纯手绘的UI和人物立绘。/n游戏风格属于亚洲日式风格，非常符合我们的审美！/n还有动态CG场景，非常给力！人设风骚，剧情真心爽的飞起~",
+    "size": "10GB",
+    "version": "2026",
+    "date": "不限",
+    "desc": "2026",
     "shots": [
-      "./images/shots/meide/mygame-01.webp",
-      "./images/shots/meide/mygame-02.webp",
-      "./images/shots/meide/mygame-03.webp",
-      "./images/shots/meide/mygame-04.webp"
+      "./images/shots/meide/mygame-01.webp"
     ],
     "category": "安卓游戏 · 高评分…",
     "tags": ["推荐"],
